@@ -1,0 +1,21 @@
+{
+  "name": "videochat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://registry.npm.taobao.org"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.0",
+    "hapi": "^8.0.0",
+    "socket.io": "^1.7.3",
+    "twilio": "^2.11.1"
+  }
+}
